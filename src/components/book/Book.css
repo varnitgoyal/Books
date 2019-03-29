@@ -1,0 +1,11 @@
+.book{
+  
+   min-height: 280px;   
+ 
+    text-align: center;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+   padding: 5px;
+   cursor: pointer;
+   margin-bottom: 10px;
+
+}

@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background-color:#ffd121
+    ;
+
+}
+
+.link{
+    text-decoration: none;
+    margin-right: 10px;
+    color:#243e50
+}
+

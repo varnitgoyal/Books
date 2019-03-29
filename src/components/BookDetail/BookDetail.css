@@ -1,0 +1,39 @@
+.BookDetail{
+    padding: 10px;
+    color:#243e50;
+}
+.thumbnail{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+   padding: 15px;
+   cursor: pointer;
+   margin-bottom: 10px;
+}
+.shortDescription{
+
+    padding: 15px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    min-height: 190px;
+    margin-left:5%; 
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+
+.itemDetail{
+    text-align: justify;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 25px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    
+  
+}
+.TopSection{
+
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items:flex-start;
+   
+}
